@@ -50,13 +50,13 @@ function App() {
           <Menu onClick={() => setVisible(!visible)} />
           <ul>
             <li>
-              <a href="#info">INFORMAÇÕES</a>
+              <a href="#info" onClick={() => setVisible(!visible)}>INFORMAÇÕES</a>
             </li>
             <li>
-              <a href="#contacts">CONTATOS</a>
+              <a href="#contacts" onClick={() => setVisible(!visible)}>CONTATOS</a>
             </li>
             <li>
-              <a href="#schedules">HORÁRIOS</a>
+              <a href="#schedules" onClick={() => setVisible(!visible)}>HORÁRIOS</a>
             </li>
           </ul>
         </NavbarContent>
