@@ -1,6 +1,6 @@
 <div align="center"> <h1>Manhattan Coffee House</h1> </div>
 
-<p align="center">Uma landing page que apresenta a essência e os valores da Manhattan Coffee House, destacando a paixão por cafés e experiências únicas.</p>
+<p align="center">Onde cada xícara é uma experiência única!</p>
 
 <p align="center">
   <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/mauricio071/manhattan-coffee-house?color=00bfa6">
