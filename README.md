@@ -3,9 +3,9 @@
 <p align="center">Uma landing page que apresenta a essência e os valores da Manhattan Coffee House, destacando a paixão por cafés e experiências únicas.</p>
 
 <p align="center">
-  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/mauricio071/manhattan-coffe-house?color=00bfa6">
+  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/mauricio071/manhattan-coffee-house?color=00bfa6">
   <img width="1" />
-  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/mauricio071/manhattan-coffe-house?color=00bfa6">
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/mauricio071/manhattan-coffee-house?color=00bfa6">
 </p>
 
 ## 📝 Sobre o projeto
