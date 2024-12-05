@@ -17,6 +17,7 @@ O Manhattan Coffee House é uma landing page desenvolvida para transmitir a ess�
 -   **React.js** - Biblioteca JavaScript para construção de interfaces
 -   **Vite** - Ferramenta de build rápida para desenvolvimento front-end
 -   **JavaScript** - Linguagem de programação para desenvolvimento web
+-   **TypeScript** - Extensão do JavaScript que adiciona tipos estáticos para maior segurança
 -   **HTML** - Estrutura do conteúdo
 -   **CSS** - Estilização da interface
 -   **Styled Components** - Biblioteca para estilização baseada em componentes no React
