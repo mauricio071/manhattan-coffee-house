@@ -41,7 +41,7 @@ O Manhattan Coffee House é uma landing page desenvolvida para transmitir a ess�
 </p>
 
 ## 🌐 Acesse o projeto online
-Você pode acessar a versão online do projeto [aqui](https://manhattan-coffe-house-ma.vercel.app/).
+Você pode acessar a versão online do projeto [aqui](https://manhattan-coffee-house-ma.vercel.app/).
 
 ## 🖥️ Como configurar o projeto
 
@@ -50,13 +50,13 @@ Siga os passos abaixo para instalar e executar o projeto em seu ambiente local:
 ### 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/mauricio071/manhattan-coffe-house
+$ git clone https://github.com/mauricio071/manhattan-coffee-house
 ```
 
 ### 2. Acesse o diretório do projeto:
 
 ```bash
-$ cd manhattan-coffe-house
+$ cd manhattan-coffee-house
 ```
 
 ### 3. Instale as dependências necessárias:
