@@ -10,7 +10,7 @@
 
 ## 📝 Sobre o projeto
 
-O Manhattan Coffee House é uma landing page desenvolvida para transmitir a essência de uma cafeteria premium. Com uma abordagem visual elegante e textos envolventes, convidando os visitantes a conhecerem mais sobre o universo da Manhattan Coffee House. 
+Landing page desenvolvida para a Manhattan Coffee House, projetada para refletir a essência de uma cafeteria premium. Com um design sofisticado e textos inspiradores, convida os visitantes a explorarem o universo exclusivo da marca.
 
 ## 🛠 Tecnologias utilizadas
 
