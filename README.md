@@ -1,50 +1,82 @@
-# React + TypeScript + Vite
+<div align="center"> <h1>Manhattan Coffe House</h1> </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">Uma landing page que apresenta a essência e os valores da Manhattan Coffee House, destacando a paixão por cafés e experiências únicas.</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/mauricio071/manhattan-coffe-house?color=00bfa6">
+  <img width="1" />
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/mauricio071/manhattan-coffe-house?color=00bfa6">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Sobre o projeto
 
-## Expanding the ESLint configuration
+O Manhattan Coffee House é uma landing page desenvolvida para transmitir a essência de uma cafeteria premium. Com uma abordagem visual elegante e textos envolventes, convidando os visitantes a conhecerem mais sobre o universo da Manhattan Coffee House. 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🛠 Tecnologias utilizadas
 
-- Configure the top-level `parserOptions` property like this:
+-   **React.js** - Biblioteca JavaScript para construção de interfaces
+-   **Vite** - Ferramenta de build rápida para desenvolvimento front-end
+-   **JavaScript** - Linguagem de programação para desenvolvimento web
+-   **HTML** - Estrutura do conteúdo
+-   **CSS** - Estilização da interface
+-   **Styled Components** - Biblioteca para estilização baseada em componentes no React
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./src/assets/readme-img/img-1.png" alt="Preview-Screens-1" width="500" >
+</p>
+
+<p align="center">
+  <img src="./src/assets/readme-img/img-2.png" alt="Preview-Screens-2" width="500" >
+</p>
+
+<p align="center">
+  <img src="./src/assets/readme-img/img-3.png" alt="Preview-Screens-3" width="500" >
+</p>
+
+<p align="center">
+  <img src="./src/assets/readme-img/img-4.png" alt="Preview-Screens-4" width="500" >
+</p>
+
+## 🌐 Acesse o projeto online
+Você pode acessar a versão online do projeto [aqui](https://manhattan-coffe-house-ma.vercel.app/).
+
+## 🖥️ Como configurar o projeto
+
+Siga os passos abaixo para instalar e executar o projeto em seu ambiente local:
+
+### 1. Clone o repositório:
+
+```bash
+$ git clone https://github.com/mauricio071/manhattan-coffe-house
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+### 2. Acesse o diretório do projeto:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
+```bash
+$ cd manhattan-coffe-house
 ```
+
+### 3. Instale as dependências necessárias:
+
+```bash
+$ npm install
+```
+ou
+
+```bash
+$ yarn
+```
+
+### 4. Inicialize o projeto:
+
+```bash 
+$ npm run dev
+```
+ou
+
+```bash 
+$ yarn dev
+```
+Agora você pode acessar o projeto no navegador em http://localhost:5173/ (ou na porta indicada pelo terminal).
