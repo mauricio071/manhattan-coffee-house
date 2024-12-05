@@ -1,4 +1,4 @@
-<div align="center"> <h1>Manhattan Coffe House</h1> </div>
+<div align="center"> <h1>Manhattan Coffee House</h1> </div>
 
 <p align="center">Uma landing page que apresenta a essência e os valores da Manhattan Coffee House, destacando a paixão por cafés e experiências únicas.</p>
 
