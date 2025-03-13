@@ -80,4 +80,4 @@ ou
 ```bash 
 $ yarn dev
 ```
-Agora você pode acessar o projeto no navegador em http://localhost:5173/ (ou na porta indicada pelo terminal).
+Agora você pode acessar o projeto no navegador em http://localhost:5173 (ou na porta indicada pelo terminal).
