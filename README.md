@@ -8,14 +8,6 @@
   <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/mauricio071/manhattan-coffee-house?color=00bfa6">
 </p>
 
-<p align="center">
- <a href="#sobre-o-projeto">Sobre o projeto</a> • 
- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> • 
- <a href="#screenshots">Screenshots</a> • 
- <a href="#acesse-o-projeto-online">Acesse o projeto online</a> •
- <a href="#como-configurar-o-projeto">Como configurar o projeto</a>
-</p>
-
 ## 📝 Sobre o projeto
 
 Landing page desenvolvida para a Manhattan Coffee House, projetada para refletir a essência de uma cafeteria premium. Com um design sofisticado e textos inspiradores, convida os visitantes a explorarem o universo exclusivo da marca.
