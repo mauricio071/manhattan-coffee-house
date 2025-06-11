@@ -15,12 +15,11 @@ Landing page desenvolvida para a Manhattan Coffee House, projetada para refletir
 ## 🛠 Tecnologias utilizadas
 
 -   **React.js** - Biblioteca JavaScript para construção de interfaces
--   **Vite** - Ferramenta de build rápida para desenvolvimento front-end
--   **JavaScript** - Linguagem de programação para desenvolvimento web
+-   **Styled Components** - Biblioteca para estilização baseada em componentes no React
 -   **TypeScript** - Extensão do JavaScript que adiciona tipos estáticos para maior segurança
+-   **JavaScript** - Linguagem de programação para desenvolvimento web
 -   **HTML** - Estrutura do conteúdo
 -   **CSS** - Estilização da interface
--   **Styled Components** - Biblioteca para estilização baseada em componentes no React
 
 ## 📸 Screenshots
 
